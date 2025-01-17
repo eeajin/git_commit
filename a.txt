@@ -1,4 +1,9 @@
 hell world
 hello gitHUb !!! 
+<<<<<<< HEAD
 hello A !!!
 hellow B !!!!
+=======
+hello B !!!
+>>>>>>> adaab8bac6cf43ce7b908edd64c7da472adfae50
+dddd
